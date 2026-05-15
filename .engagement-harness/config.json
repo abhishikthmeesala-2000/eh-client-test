@@ -22,18 +22,18 @@
     ]
   },
   "models": {
-    "reviewer": "mock",
-    "security": "mock",
-    "domain-policy": "mock",
-    "testing": "mock",
-    "data-architecture": "mock",
-    "sre-observability": "mock",
-    "design-principles": "mock",
-    "pr-intent-gap": "mock",
-    "remediation": "mock"
+    "reviewer": "anthropic",
+    "security": "anthropic",
+    "domain-policy": "anthropic",
+    "testing": "anthropic",
+    "data-architecture": "anthropic",
+    "sre-observability": "anthropic",
+    "design-principles": "anthropic",
+    "pr-intent-gap": "anthropic",
+    "remediation": "anthropic"
   },
   "providers": {
-    "mock": {}
+    "anthropic": {}
   },
   "context": {
     "ignoredPaths": [
