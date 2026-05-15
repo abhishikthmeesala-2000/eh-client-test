@@ -54,11 +54,11 @@
   },
   "ci": {
     "blockOnPolicy": false,
-    "postComments": false,
-    "artifactsOnly": true
+    "postComments": true,
+    "artifactsOnly": false
   },
   "alm": {
-    "platform": "none"
+    "platform": "github"
   },
   "feedback": {
     "enabled": true
