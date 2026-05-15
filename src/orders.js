@@ -9,3 +9,4 @@ function cancelOrder(req, res) {
 module.exports = { cancelOrder };
 // TODO: add input validation
 // add input sanitization
+// fix: use parameterized queries
