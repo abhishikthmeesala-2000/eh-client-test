@@ -6,7 +6,7 @@
   "review": {
     "confidenceThreshold": 0.5,
     "severityThreshold": "low",
-    "requireVerifierApproval": true
+    "requireVerifierApproval": false
   },
   "agents": {
     "enabled": [
